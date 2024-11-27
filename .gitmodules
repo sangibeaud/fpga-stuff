@@ -1,0 +1,3 @@
+[submodule "external/xapp-1165"]
+	path = external/xapp-1165
+	url = https://github.com/sharonshmuel/xapp1165.git
