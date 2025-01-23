@@ -1,3 +1,6 @@
 [submodule "external/xapp-1165"]
 	path = external/xapp-1165
 	url = https://github.com/sharonshmuel/xapp1165.git
+[submodule "external/osstoolchain-docker-things"]
+	path = external/osstoolchain-docker-things
+	url = https://github.com/sangibeaud/osstoolchain-docker-things.git
